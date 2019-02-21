@@ -131,6 +131,14 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+        'email' =>[
+            'required' => '邮箱地址不能为空!',
+        ],
+        // 'password'=>'密码不可为空！',
+        'password'=>[
+            'confirmed' => '两次密码不相同！',
+            'required' => '密码不可为空！',
+        ],
     ],
 
     /*
