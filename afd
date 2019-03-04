@@ -1,0 +1,83 @@
+[33mcommit bcc8dda9a04812695c5277c1778f4c1229970b07[m[33m ([m[1;36mHEAD -> [m[1;32mlogin-logout[m[33m, [m[1;31morigin/master[m[33m, [m[1;32msign-up[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Your Name <345111458@qq.com>
+Date:   Thu Feb 21 10:01:57 2019 +0000
+
+    完成用户注册功能
+
+[33mcommit aaeea666bd4fa6c6d8dfbaa555a3cd1e3364eeb8[m
+Author: Your Name <345111458@qq.com>
+Date:   Thu Feb 21 08:49:47 2019 +0000
+
+    中文的错误提示信息
+
+[33mcommit 9ef73bb896a75c57706258054b060552d4925693[m
+Author: Your Name <345111458@qq.com>
+Date:   Thu Feb 21 01:52:31 2019 +0000
+
+    增加 CSRF 验证
+
+[33mcommit 0670456ee3d7b0a90b2240d96af02695b56c5708[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 07:36:48 2019 +0000
+
+    用户注册表单
+
+[33mcommit 09f749d5d431d4a4b306e26fb5899a56dceb3c23[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 07:31:14 2019 +0000
+
+    用户显示页面
+
+[33mcommit ba4096aca7d55cc4aad2885942269986206c967d[m[33m ([m[1;32mmodeling-users[m[33m)[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 04:56:37 2019 +0000
+
+    Move user model to models folder
+
+[33mcommit 9a4e4e7c6df87d97a1657f8d83c72cd1f9c5ef02[m[33m ([m[1;32mfilling-layouts-style[m[33m)[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 03:53:38 2019 +0000
+
+    用户注册页面
+
+[33mcommit 6ebb6c3170f9d2d01c610a3183c388aa32cce2dc[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 03:43:36 2019 +0000
+
+    命名路由
+
+[33mcommit 22d312edb266e377cdd3d347681b294c2f277f08[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 03:37:50 2019 +0000
+
+    切割头部和尾部子视图
+
+[33mcommit aef9556ab72ce56a92131c029da443eee208f3dd[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 03:33:21 2019 +0000
+
+    静态文件浏览器缓存问题
+
+[33mcommit a1e37f9f9302519aea2c8612cade30951ed5e28e[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 03:10:43 2019 +0000
+
+    初始化样式
+
+[33mcommit cf8609e4a556b271541e0cb1e6751010486b29a9[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 02:31:29 2019 +0000
+
+    基础页面
+
+[33mcommit c7d7354482412f72a3a39dbe03106a5084dc738c[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 01:48:31 2019 +0000
+
+    2
+
+[33mcommit d094348400aa486fbeea263bbd3967dc74dbeb51[m
+Author: Your Name <345111458@qq.com>
+Date:   Wed Feb 20 01:39:48 2019 +0000
+
+    1
