@@ -12,7 +12,7 @@ class UsersTableSeeder extends Seeder
      */
     public function run(){
         //
-        $users = factory(User::class)->times(9050)->make();
+        $users = factory(User::class)->times(250)->make();
         User::insert($users->makeVisible(['password', 'remember_token'])->toArray());
 
         $user = User::find(1);
